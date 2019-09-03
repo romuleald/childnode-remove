@@ -1,0 +1,19 @@
+{
+  "name": "childnode-remove",
+  "version": "1.0.0",
+  "description": "DOM polyfill for ChildNode.remove",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romuleald/childnode-remove.git"
+  },
+  "author": "",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/romuleald/childnode-remove/issues"
+  },
+  "homepage": "https://github.com/romuleald/childnode-remove#readme"
+}
