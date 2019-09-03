@@ -1,2 +1,2 @@
-# childnode-remove
+# childnode.remove
 DOM polyfill for ChildNode.remove
