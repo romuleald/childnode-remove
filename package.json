@@ -1,5 +1,5 @@
 {
-  "name": "childnode.remove",
+  "name": "@romuleald/childnode-remove",
   "version": "1.0.0",
   "description": "DOM polyfill for ChildNode.remove",
   "main": "index.js",
